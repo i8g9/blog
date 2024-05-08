@@ -1,4 +1,4 @@
-baseURL = 'blog.ifeigen.com'
+baseURL = 'https://blog.ifeigen.com'
 languageCode = 'en-us'
 title = 'ifeigen'
 theme = 'paper'
