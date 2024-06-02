@@ -23,3 +23,5 @@ While computer science and science will undoubtedly be the primary focus of this
 ## Closure
 
 Thank you for visiting this blog. I'm excited to be sharing my thoughts and reflections on this platform.
+
+Author - Immanuel A. Garibaldi
