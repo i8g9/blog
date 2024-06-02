@@ -1,12 +1,12 @@
 +++
-title = 'Ten Questions to Ask in Your 20s'
+title = 'Twelve Questions to Ask in Your 20s'
 date = 2024-06-02T16:15:31+07:00
 draft = false
 +++
 
 By : Immanuel A. Garibaldi
 
-Your 20s are a defining decade, packed with life-defining choices. This guide presents ten crucial questions to aid your journey, shape your personal philosophy, and steer you towards a life of fulfillment.
+Your 20s are a defining decade, packed with life-defining choices. This guide presents twelve crucial questions to aid your journey, shape your personal philosophy, and steer you towards a life of fulfillment.
 
 ### Core Values and Personal Philosophy : 
 - What are your guiding principles and beliefs?
