@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ifeigen</title>
-    <link>https://blog.ifeigen.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on ifeigen</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 May 2024 00:30:39 +0700</lastBuildDate>
-    <atom:link href="https://blog.ifeigen.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jun 2024 16:15:31 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ten Questions to Ask in Your 20s</title>
+      <link>http://localhost:1313/posts/ten-questions-to-ask-in-your-20s/</link>
+      <pubDate>Sun, 02 Jun 2024 16:15:31 +0700</pubDate>
+      <guid>http://localhost:1313/posts/ten-questions-to-ask-in-your-20s/</guid>
+      <description>By : Immanuel A. Garibaldi&#xA;Your 20s are a defining decade, packed with life-defining choices. This guide presents ten crucial questions to aid your journey, shape your personal philosophy, and steer you towards a life of fulfillment.&#xA;Core Values and Personal Philosophy : What are your guiding principles and beliefs? How do you define a successful and fulfilling life? Long-Term Vision and Ideal Future : What does your ideal life look like?</description>
+    </item>
     <item>
       <title>Hello World</title>
-      <link>https://blog.ifeigen.com/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Thu, 09 May 2024 00:30:39 +0700</pubDate>
-      <guid>https://blog.ifeigen.com/posts/hello-world/</guid>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>Hello, world! I&amp;rsquo;m ifeigen.&#xA;The name &amp;ldquo;ifeigen&amp;rdquo; holds a special meaning to me, as it combines two essential elements of my life: computer science and physics.&#xA;if represents the conditional statements in programming eigen refers to the fundamental concepts of eigenvalues and eigenvectors in physics. These two subjects have shaped my passion and curiosity, and I&amp;rsquo;m excited to share my thoughts and experiences with you through this blog.&#xA;The Inspiration Behind the Blog As I&amp;rsquo;ve navigated through life, I&amp;rsquo;ve come to realize the wealth of knowledge and insights I&amp;rsquo;ve gained along the way.</description>
     </item>
   </channel>

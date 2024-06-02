@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.ifeigen.com/posts/hello-world/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-02T16:15:31+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-06-02T16:15:31+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ten-questions-to-ask-in-your-20s/</loc>
+    <lastmod>2024-06-02T16:15:31+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
     <lastmod>2024-05-09T00:30:39+07:00</lastmod>
   </url><url>
-    <loc>https://blog.ifeigen.com/</loc>
-    <lastmod>2024-05-09T00:30:39+07:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://blog.ifeigen.com/posts/</loc>
-    <lastmod>2024-05-09T00:30:39+07:00</lastmod>
-  </url><url>
-    <loc>https://blog.ifeigen.com/categories/</loc>
-  </url><url>
-    <loc>https://blog.ifeigen.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
